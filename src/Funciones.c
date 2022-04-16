@@ -11,7 +11,7 @@ float HacerDescuento(float numero, float porcentaje){
 	float descuento;
 	descuento= numero-(numero*(porcentaje/100));
 	return descuento;
-}
+} //s
 
 float HacerAumento(float numero, float porcentaje){
 	float aumento;
